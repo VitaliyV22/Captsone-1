@@ -1,1 +1,1 @@
-gunicorn: __init__:app
+gunicorn: run:app
